@@ -1,0 +1,28 @@
+html, body {
+  margin: 0;
+  padding: 0;
+
+}
+canvas {
+  display: block;
+
+  
+}
+h1{
+
+  font-family:cursive;
+  color:black;
+  font-size:70px;
+
+}
+button{
+  text-align: center;
+font-size: 30px;
+}
+h2{
+  font-family: cursive;
+  font-size: 30px;
+}
+h3{
+  color: red
+}
